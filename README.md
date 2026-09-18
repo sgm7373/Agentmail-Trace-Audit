@@ -61,4 +61,4 @@ This tested core send, reply, search, and error handling behavior against a smal
 ## Author
 
 Sourabh More
-[LinkedIn](https://linkedin.com/in/sourabhmore73) · [Portfolio](https://sourabhmore.carrd.co)
+[LinkedIn](https://linkedin.com/in/sourabhmore73) 
