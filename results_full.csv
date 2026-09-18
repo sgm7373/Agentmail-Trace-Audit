@@ -1,0 +1,9 @@
+task,run,passed,notes
+1. Send/Receive,1,True,"manual baseline, not agent driven"
+2. Reply/Threading,1,True,agent driven
+2. Reply/Threading,2,True,agent driven
+2. Reply/Threading,3,True,agent driven
+3. Search & Extract,1,True,correct message and value found among 10
+4. Capability Boundary,1,False,hallucinated get_message on first attempt
+4. Capability Boundary,2,True,recovered honestly after correction
+5. Failure Handling,1,True,correctly reported real validation error
